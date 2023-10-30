@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb5782e6-0cf7-41c8-a00c-83d7b5578f76" name="변경" comment="chap_17 작성&#10;사용자 정의 참조 타입 사용">
+    <list default="true" id="eb5782e6-0cf7-41c8-a00c-83d7b5578f76" name="변경" comment="chap_17&#10;주석 추가(클래스, 생성자, 변수)">
+      <change afterPath="$PROJECT_DIR$/src/chap_18/JavaTypeConversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap_17/JavaUserDefinedType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_17/JavaUserDefinedType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.JavaUserDefinedType">
+  <component name="RunManager" selected="애플리케이션.JavaTypeConversion">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_14.Hello" />
       <module name="java_problem_solving" />
@@ -64,6 +64,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chap_16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaTypeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_18.JavaTypeConversion" />
+      <module name="java_problem_solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.JavaTypeConversion" />
         <item itemvalue="애플리케이션.JavaUserDefinedType" />
         <item itemvalue="애플리케이션.JavaObjectType" />
         <item itemvalue="애플리케이션.PrimaryType" />
@@ -115,7 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698367657156</updated>
       <workItem from="1698367658466" duration="2680000" />
-      <workItem from="1698627611126" duration="1581000" />
+      <workItem from="1698627611126" duration="2209000" />
     </task>
     <task id="LOCAL-00001" summary="chap_14 작성&#10;자바 프로그래밍 실행. &#10;&quot;이 프로그래밍은 JAVA200이 만들었습니다.&quot; 를 콘솔에 출력&#10;System.out.println() 이용">
       <option name="closed" value="true" />
@@ -149,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698628658703</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="chap_17&#10;주석 추가(클래스, 생성자, 변수)">
+      <option name="closed" value="true" />
+      <created>1698629234768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698629234768</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +182,8 @@
     <MESSAGE value="chap_15 작성&#10;기본 타입 선언" />
     <MESSAGE value="chap_16 작성&#10;API 에서 제공하는 참조 타입 사용" />
     <MESSAGE value="chap_17 작성&#10;사용자 정의 참조 타입 사용" />
-    <option name="LAST_COMMIT_MESSAGE" value="chap_17 작성&#10;사용자 정의 참조 타입 사용" />
+    <MESSAGE value="chap_17&#10;주석 추가(클래스, 생성자, 변수)" />
+    <option name="LAST_COMMIT_MESSAGE" value="chap_17&#10;주석 추가(클래스, 생성자, 변수)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
