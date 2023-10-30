@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb5782e6-0cf7-41c8-a00c-83d7b5578f76" name="변경" comment="chap_16 작성&#10;API 에서 제공하는 참조 타입 사용">
-      <change afterPath="$PROJECT_DIR$/src/chap_17/JavaUserDefinedType.java" afterDir="false" />
+    <list default="true" id="eb5782e6-0cf7-41c8-a00c-83d7b5578f76" name="변경" comment="chap_17 작성&#10;사용자 정의 참조 타입 사용">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_17/JavaUserDefinedType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_17/JavaUserDefinedType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698367657156</updated>
       <workItem from="1698367658466" duration="2680000" />
-      <workItem from="1698627611126" duration="508000" />
+      <workItem from="1698627611126" duration="1581000" />
     </task>
     <task id="LOCAL-00001" summary="chap_14 작성&#10;자바 프로그래밍 실행. &#10;&quot;이 프로그래밍은 JAVA200이 만들었습니다.&quot; 를 콘솔에 출력&#10;System.out.println() 이용">
       <option name="closed" value="true" />
@@ -141,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698627913273</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chap_17 작성&#10;사용자 정의 참조 타입 사용">
+      <option name="closed" value="true" />
+      <created>1698628658703</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698628658703</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +159,8 @@
     <MESSAGE value="chap_14 작성&#10;자바 프로그래밍 실행. &#10;&quot;이 프로그래밍은 JAVA200이 만들었습니다.&quot; 를 콘솔에 출력&#10;System.out.println() 이용" />
     <MESSAGE value="chap_15 작성&#10;기본 타입 선언" />
     <MESSAGE value="chap_16 작성&#10;API 에서 제공하는 참조 타입 사용" />
-    <option name="LAST_COMMIT_MESSAGE" value="chap_16 작성&#10;API 에서 제공하는 참조 타입 사용" />
+    <MESSAGE value="chap_17 작성&#10;사용자 정의 참조 타입 사용" />
+    <option name="LAST_COMMIT_MESSAGE" value="chap_17 작성&#10;사용자 정의 참조 타입 사용" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
