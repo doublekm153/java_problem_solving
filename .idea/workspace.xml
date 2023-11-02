@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb5782e6-0cf7-41c8-a00c-83d7b5578f76" name="변경" comment="chap_22 작성&#10;실수 타입의 변수 사용">
-      <change afterPath="$PROJECT_DIR$/src/chap_23/Letters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap_24/showHello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="eb5782e6-0cf7-41c8-a00c-83d7b5578f76" name="변경" comment="chap_23 작성&#10;문자와 문자열의 관계">
+      <change beforePath="$PROJECT_DIR$/src/chap_24/showHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap_24/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +46,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Letters">
-    <configuration name="Grad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_20.Grad" />
+  <component name="RunManager" selected="애플리케이션.Hello">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_24.Hello" />
       <module name="java_problem_solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap_20.*" />
+          <option name="PATTERN" value="chap_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Hello" />
         <item itemvalue="애플리케이션.Letters" />
         <item itemvalue="애플리케이션.HighHill" />
         <item itemvalue="애플리케이션.test" />
         <item itemvalue="애플리케이션.chap_21.Grad" />
-        <item itemvalue="애플리케이션.Grad" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +128,7 @@
       <workItem from="1698627611126" duration="2280000" />
       <workItem from="1698713907265" duration="580000" />
       <workItem from="1698815779373" duration="3500000" />
-      <workItem from="1698893429873" duration="4255000" />
+      <workItem from="1698893429873" duration="4587000" />
     </task>
     <task id="LOCAL-00001" summary="chap_14 작성&#10;자바 프로그래밍 실행. &#10;&quot;이 프로그래밍은 JAVA200이 만들었습니다.&quot; 를 콘솔에 출력&#10;System.out.println() 이용">
       <option name="closed" value="true" />
@@ -204,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698948168523</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="chap_23 작성&#10;문자와 문자열의 관계">
+      <option name="closed" value="true" />
+      <created>1698949356922</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698949356922</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +226,8 @@
     <MESSAGE value="chap_20 작성&#10;정수의 기본 연산" />
     <MESSAGE value="chap_21 작성&#10;정수 타입의 배열 사용" />
     <MESSAGE value="chap_22 작성&#10;실수 타입의 변수 사용" />
-    <option name="LAST_COMMIT_MESSAGE" value="chap_22 작성&#10;실수 타입의 변수 사용" />
+    <MESSAGE value="chap_23 작성&#10;문자와 문자열의 관계" />
+    <option name="LAST_COMMIT_MESSAGE" value="chap_23 작성&#10;문자와 문자열의 관계" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
