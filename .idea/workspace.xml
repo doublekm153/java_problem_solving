@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb5782e6-0cf7-41c8-a00c-83d7b5578f76" name="변경" comment="chap_24 작성&#10;메서드 선언 + 호출">
-      <change afterPath="$PROJECT_DIR$/src/chap_25/InOutMethod.java" afterDir="false" />
+    <list default="true" id="eb5782e6-0cf7-41c8-a00c-83d7b5578f76" name="변경" comment="chap_25 작성&#10;키보드로 입력받아 출력.">
+      <change afterPath="$PROJECT_DIR$/src/chap_26/BioCalender.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.InOutMethod">
+  <component name="RunManager" selected="애플리케이션.BioCalender">
+    <configuration name="BioCalender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_26.BioCalender" />
+      <module name="java_problem_solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap_26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_24.Hello" />
       <module name="java_problem_solving" />
@@ -101,20 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="java_problem_solving" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BioCalender" />
         <item itemvalue="애플리케이션.InOutMethod" />
         <item itemvalue="애플리케이션.Hello" />
         <item itemvalue="애플리케이션.Letters" />
         <item itemvalue="애플리케이션.HighHill" />
-        <item itemvalue="애플리케이션.test" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +138,7 @@
       <workItem from="1698815779373" duration="3500000" />
       <workItem from="1698893429873" duration="4701000" />
       <workItem from="1698949883770" duration="46000" />
-      <workItem from="1698970326004" duration="1906000" />
+      <workItem from="1698970326004" duration="2163000" />
     </task>
     <task id="LOCAL-00001" summary="chap_14 작성&#10;자바 프로그래밍 실행. &#10;&quot;이 프로그래밍은 JAVA200이 만들었습니다.&quot; 를 콘솔에 출력&#10;System.out.println() 이용">
       <option name="closed" value="true" />
@@ -222,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698949772573</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="chap_25 작성&#10;키보드로 입력받아 출력.">
+      <option name="closed" value="true" />
+      <created>1698977613419</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698977613419</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +254,8 @@
     <MESSAGE value="chap_22 작성&#10;실수 타입의 변수 사용" />
     <MESSAGE value="chap_23 작성&#10;문자와 문자열의 관계" />
     <MESSAGE value="chap_24 작성&#10;메서드 선언 + 호출" />
-    <option name="LAST_COMMIT_MESSAGE" value="chap_24 작성&#10;메서드 선언 + 호출" />
+    <MESSAGE value="chap_25 작성&#10;키보드로 입력받아 출력." />
+    <option name="LAST_COMMIT_MESSAGE" value="chap_25 작성&#10;키보드로 입력받아 출력." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
