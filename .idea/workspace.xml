@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb5782e6-0cf7-41c8-a00c-83d7b5578f76" name="변경" comment="chap_27 작성&#10;상수 사용 + 라디안 -&gt; 각도 변환">
-      <change afterPath="$PROJECT_DIR$/src/chap_28/BioCalendar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="eb5782e6-0cf7-41c8-a00c-83d7b5578f76" name="변경" comment="chap_28 작성&#10;Math 클래스 사용">
+      <change afterPath="$PROJECT_DIR$/src/chap_29/BioCalendar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.chap_28.BioCalendar">
+  <component name="RunManager" selected="애플리케이션.chap_29.BioCalendar">
     <configuration name="BioCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_27.BioCalendar" />
       <module name="java_problem_solving" />
@@ -68,19 +67,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chap_26.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_24.Hello" />
-      <module name="java_problem_solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap_24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chap_29.BioCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_29.BioCalendar" />
+      <module name="java_problem_solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap_29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.chap_29.BioCalendar" />
         <item itemvalue="애플리케이션.chap_28.BioCalendar" />
         <item itemvalue="애플리케이션.BioCalendar" />
         <item itemvalue="애플리케이션.BioCalender" />
         <item itemvalue="애플리케이션.InOutMethod" />
-        <item itemvalue="애플리케이션.Hello" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +139,7 @@
       <workItem from="1698949883770" duration="46000" />
       <workItem from="1698970326004" duration="2920000" />
       <workItem from="1699236085165" duration="620000" />
-      <workItem from="1699321641264" duration="433000" />
+      <workItem from="1699321641264" duration="655000" />
     </task>
     <task id="LOCAL-00001" summary="chap_14 작성&#10;자바 프로그래밍 실행. &#10;&quot;이 프로그래밍은 JAVA200이 만들었습니다.&quot; 를 콘솔에 출력&#10;System.out.println() 이용">
       <option name="closed" value="true" />
@@ -254,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698978607898</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="chap_28 작성&#10;Math 클래스 사용">
+      <option name="closed" value="true" />
+      <created>1699322158961</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1699322158961</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,7 +282,8 @@
     <MESSAGE value="chap_25 작성&#10;키보드로 입력받아 출력." />
     <MESSAGE value="chap_26 작성&#10;상수 사용" />
     <MESSAGE value="chap_27 작성&#10;상수 사용 + 라디안 -&gt; 각도 변환" />
-    <option name="LAST_COMMIT_MESSAGE" value="chap_27 작성&#10;상수 사용 + 라디안 -&gt; 각도 변환" />
+    <MESSAGE value="chap_28 작성&#10;Math 클래스 사용" />
+    <option name="LAST_COMMIT_MESSAGE" value="chap_28 작성&#10;Math 클래스 사용" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
