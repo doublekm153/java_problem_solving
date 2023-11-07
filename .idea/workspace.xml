@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb5782e6-0cf7-41c8-a00c-83d7b5578f76" name="변경" comment="chap_29 작성&#10;static 메서드 사용">
-      <change afterPath="$PROJECT_DIR$/src/chap_30/BioCalendar.java" afterDir="false" />
+    <list default="true" id="eb5782e6-0cf7-41c8-a00c-83d7b5578f76" name="변경" comment="chap_30 작성&#10;멤버 메서드 사용">
+      <change afterPath="$PROJECT_DIR$/src/chap_31/FRUIT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_31/FruitMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +29,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2XKAypO1XB4Enq4tJHXv2wxM2Cd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +52,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.chap_30.BioCalendar">
+  <component name="RunManager" selected="애플리케이션.FruitMain">
     <configuration name="BioCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_27.BioCalendar" />
       <module name="java_problem_solving" />
@@ -62,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BioCalender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_26.BioCalender" />
+    <configuration name="FruitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_31.FruitMain" />
       <module name="java_problem_solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap_26.*" />
+          <option name="PATTERN" value="chap_31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.FruitMain" />
         <item itemvalue="애플리케이션.chap_30.BioCalendar" />
         <item itemvalue="애플리케이션.chap_29.BioCalendar" />
         <item itemvalue="애플리케이션.chap_28.BioCalendar" />
         <item itemvalue="애플리케이션.BioCalendar" />
-        <item itemvalue="애플리케이션.BioCalender" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +144,7 @@
       <workItem from="1698949883770" duration="46000" />
       <workItem from="1698970326004" duration="2920000" />
       <workItem from="1699236085165" duration="620000" />
-      <workItem from="1699321641264" duration="831000" />
+      <workItem from="1699321641264" duration="1625000" />
     </task>
     <task id="LOCAL-00001" summary="chap_14 작성&#10;자바 프로그래밍 실행. &#10;&quot;이 프로그래밍은 JAVA200이 만들었습니다.&quot; 를 콘솔에 출력&#10;System.out.println() 이용">
       <option name="closed" value="true" />
@@ -270,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699322351576</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="chap_30 작성&#10;멤버 메서드 사용">
+      <option name="closed" value="true" />
+      <created>1699322573474</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699322573474</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,7 +305,8 @@
     <MESSAGE value="chap_27 작성&#10;상수 사용 + 라디안 -&gt; 각도 변환" />
     <MESSAGE value="chap_28 작성&#10;Math 클래스 사용" />
     <MESSAGE value="chap_29 작성&#10;static 메서드 사용" />
-    <option name="LAST_COMMIT_MESSAGE" value="chap_29 작성&#10;static 메서드 사용" />
+    <MESSAGE value="chap_30 작성&#10;멤버 메서드 사용" />
+    <option name="LAST_COMMIT_MESSAGE" value="chap_30 작성&#10;멤버 메서드 사용" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
