@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb5782e6-0cf7-41c8-a00c-83d7b5578f76" name="변경" comment="chap_31 작성&#10;enum 사용">
-      <change afterPath="$PROJECT_DIR$/src/chap_32/GeoPoint.java" afterDir="false" />
+    <list default="true" id="eb5782e6-0cf7-41c8-a00c-83d7b5578f76" name="변경" comment="chap_32 작성&#10;1,2차원 배열 사용_new 사용 x">
+      <change afterPath="$PROJECT_DIR$/src/chap_33/Geo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chap_33/GeoPoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/doubl/Desktop/multi&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/doubl/Desktop/baemin/java-christmas-6-doublekm153&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -51,7 +52,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.GeoPoint">
+  <component name="RunManager" selected="애플리케이션.chap_33.GeoPoint">
     <configuration name="FruitMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap_31.FruitMain" />
       <module name="java_problem_solving" />
@@ -71,19 +72,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chap_32.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="chap_28.BioCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap_28.BioCalendar" />
-      <module name="java_problem_solving" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap_28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chap_33.GeoPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_33.GeoPoint" />
+      <module name="java_problem_solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap_33.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.chap_33.GeoPoint" />
         <item itemvalue="애플리케이션.GeoPoint" />
         <item itemvalue="애플리케이션.FruitMain" />
         <item itemvalue="애플리케이션.chap_30.BioCalendar" />
         <item itemvalue="애플리케이션.chap_29.BioCalendar" />
-        <item itemvalue="애플리케이션.chap_28.BioCalendar" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +144,10 @@
       <workItem from="1698949883770" duration="46000" />
       <workItem from="1698970326004" duration="2920000" />
       <workItem from="1699236085165" duration="620000" />
-      <workItem from="1699321641264" duration="3161000" />
+      <workItem from="1699321641264" duration="5658000" />
+      <workItem from="1699489093085" duration="2093000" />
+      <workItem from="1699598012725" duration="437000" />
+      <workItem from="1700097925856" duration="793000" />
     </task>
     <task id="LOCAL-00001" summary="chap_14 작성&#10;자바 프로그래밍 실행. &#10;&quot;이 프로그래밍은 JAVA200이 만들었습니다.&quot; 를 콘솔에 출력&#10;System.out.println() 이용">
       <option name="closed" value="true" />
@@ -289,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699323449974</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="chap_32 작성&#10;1,2차원 배열 사용_new 사용 x">
+      <option name="closed" value="true" />
+      <created>1699325814468</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1699325814468</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +326,8 @@
     <MESSAGE value="chap_29 작성&#10;static 메서드 사용" />
     <MESSAGE value="chap_30 작성&#10;멤버 메서드 사용" />
     <MESSAGE value="chap_31 작성&#10;enum 사용" />
-    <option name="LAST_COMMIT_MESSAGE" value="chap_31 작성&#10;enum 사용" />
+    <MESSAGE value="chap_32 작성&#10;1,2차원 배열 사용_new 사용 x" />
+    <option name="LAST_COMMIT_MESSAGE" value="chap_32 작성&#10;1,2차원 배열 사용_new 사용 x" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
